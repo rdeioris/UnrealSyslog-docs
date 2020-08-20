@@ -32,5 +32,3 @@ If your server supports UTF8 log messages, you can enable the specific option. N
 https://tools.ietf.org/html/rfc5424
 
 https://tools.ietf.org/html/rfc3164
-
-
