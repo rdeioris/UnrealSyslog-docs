@@ -3,6 +3,8 @@ Docs for UnrealSyslog Plugin
 
 Join the discord server for support: https://discord.gg/UJszBmE
 
+Buy the plugin from the marketplace: https://www.unrealengine.com/marketplace/en-US/product/unrealsyslog
+
 ## Configuration
 
 Once the plugin is installed you can directly configure the list of syslog servers by going to
